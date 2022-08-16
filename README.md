@@ -1,3 +1,5 @@
+<img src="https://github.com/swingywc/swingywc/blob/master/banner.jpg?raw=true" />
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swingywc&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swingywc&theme=tokyonight" />
+
+<img src="https://komarev.com/ghpvc/?username=swingywc&color=brightgreen" />
