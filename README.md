@@ -5,6 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=swingywc&color=brightgreen" />
 
+<img src="https://github.com/swingywc/swingywc/raw/output/github-snake.svg" />
 
 ### Hi there 👋
 
