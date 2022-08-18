@@ -1,7 +1,12 @@
 <p align="center"><img src="https://github.com/swingywc/swingywc/blob/master/banner.jpg?raw=true" /></p>
 $$\textcolor{blue}{\text{🎵全てを賭けて描く 自分にしか出せない色で🎶}}$$
 
-<img src="https://komarev.com/ghpvc/?username=swingywc&color=brightgreen" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=swingywc&color=brightgreen" /> 
+  <a href="https://www.linkedin.com/in/wing-choy-18976194/">
+    <img src="https://shields.io/badge/%7F-linkedin-blue?logo=linkedin" />
+  </a>
+</p>
 
 ```javascript
   // About Me
