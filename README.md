@@ -1,13 +1,21 @@
 <p align="center"><img src="https://github.com/swingywc/swingywc/blob/master/banner.jpg?raw=true" /></p>
-
-全てを賭けて描く  
-自分にしか出せない色で
+$$\textcolor{blue}{\text{🎵全てを賭けて描く 自分にしか出せない色で🎶}}$$
 
 <img src="https://komarev.com/ghpvc/?username=swingywc&color=brightgreen" />
 
-<img src="https://github.com/swingywc/swingywc/raw/output/github-snake.svg" />
+```javascript
+  // About Me
+  var wing = new Developer({ 
+    name: 'Wing Choy', 
+    age: 27, 
+    region: 'Hong Kong' 
+  });
+  
+  wing.greeting(); // Hello World! I am Wing Choy - full stack developer. Nice to meet you ^
+  wing.coding();
+```
 
-### Hi there 👋
+<img src="https://github.com/swingywc/swingywc/raw/output/github-snake.svg" />
 
 <!--
 **swingywc/swingywc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
