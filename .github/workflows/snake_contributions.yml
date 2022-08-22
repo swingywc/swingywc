@@ -41,7 +41,7 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            dist/github-snake.svg?color_snake=orange&color_dots=#9c9ed3,#5254a9,#2b2d9a,#151773,#06084a
+            dist/github-snake.svg?color_snake=orange&color_dots=#dbdaf5,#c590e0,#8c70e0,#4109e7,#2e03b0
             
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
